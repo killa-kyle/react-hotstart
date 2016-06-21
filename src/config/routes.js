@@ -14,11 +14,4 @@ var routes = (
     </Route>
   </Router>
 );
-console.log('routes');
-
 export default routes;
-
-
-// <Route path='playerTwo/:playerOne' header='Player Two' component={PromptContainer} />
-
-// <Route path='results' component={ResultsContainer} />
