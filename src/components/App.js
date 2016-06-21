@@ -1,4 +1,5 @@
 import React from 'react'
+require('../styles/style.scss');
 
 export default React.createClass({
   render() {
