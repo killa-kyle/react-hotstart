@@ -1,5 +1,5 @@
 {
-  "name": "react-hot-boilerplate",
+  "name": "react boilerplate",
   "version": "1.0.0",
   "description": "Boilerplate for ReactJS project with hot code reloading",
   "scripts": {
@@ -41,7 +41,9 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
+    "axios": "^0.12.0",
     "react": "^0.14.6",
-    "react-dom": "^0.14.6"
+    "react-dom": "^0.14.6",
+    "react-router": "^2.4.1"
   }
 }
